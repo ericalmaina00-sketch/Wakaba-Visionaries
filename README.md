@@ -1,2 +1,0 @@
-# Wakaba-Visionaries
-Web
